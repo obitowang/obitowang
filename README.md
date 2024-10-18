@@ -2,7 +2,7 @@
 🔭I am studying at Fu Jen Catholic University. 
 🌱I am skilled at coding websites, not only using HTML but also JavaScript and CSS. 
 ⚡I am also learning Python and Java, and I aspire to work on a full deep-learning project in the future!
-💬Send me a private message on Discord if you need to.  ----->  Obitowang#0842.
+💬Send me a private message on Discord if you need to.  ----->  Obitowang#0842
 
 
 
