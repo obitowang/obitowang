@@ -13,7 +13,7 @@
 - 🌱I am skilled at coding websites, not only using HTML but also JavaScript and CSS. 
 - ⚡I am also learning Python and Java, and I aspire to work on a full deep-learning project in the future!
 - 💬Send me a private message on Discord if you need to.  ----->  Obitowang#0842
-- - 📫 Mail me: dhkgodez@gmail.com
+- - 📫 Mail me: dhkgodez@gmail.com or frankwanghigh@gmail.com 
 
 ### ⚡ Skills:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
